@@ -131,27 +131,21 @@ Passionate about building real-world applications, backend systems, automation t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=aashishmeena7445-sketch&show_icons=true&theme=github_dark" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aashishmeena7445-sketch&theme=github-dark" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishmeena7445-sketch&theme=github_dark" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
 
-- 🔹 Student Management System
-- 🔹 Python Automation Tools
-- 🔹 Expense Tracker
-- 🔹 REST API Backend
-- 🔹 Real-time Tracking System
 
 ---
 
