@@ -131,7 +131,7 @@ Passionate about building real-world applications, backend systems, automation t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aashishmeena7445-sketch&show_icons=true&theme=github_dark" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=aashishmeena7445-sketch&show_icons=true&theme=github_dark" /> -->
 
 <br><br>
 
