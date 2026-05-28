@@ -139,7 +139,7 @@ Passionate about building real-world applications, backend systems, automation t
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishmeena7445-sketch&theme=github_dark" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashishmeena7445-sketch&theme=github_dark" /> -->
 
 </div>
 
