@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/aashishmeena7445-sketch" target="_blank">Aashish Meena</a></h1>
 
 <p align="center">
@@ -169,4 +169,4 @@ while(alive):
 <p align="center">
 ⭐ Building projects, learning consistently, and growing as a developer.
 </p>
-```
+
